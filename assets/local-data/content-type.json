@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Document",
+        "tag": "DOCUMENT"
+    },
+    {
+        "id": 2,
+        "name": "Video",
+        "tag": "VIDEO"
+    }
+]

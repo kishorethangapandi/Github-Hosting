@@ -1,0 +1,211 @@
+[
+    {
+        "subjects": [
+            {
+                "subjectID": "1",
+                "subjectName": "English",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some description about english"
+                        },
+                        "children": [
+                            {
+                                "text": "Grammar - level 1",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "11",
+                                    "conceptName": "Grammar - level 1",
+                                    "conceptDescription": "Some description about grammer level one"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Vocabulary",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "31",
+                                            "topicName": "Vocabulary",
+                                            "topicDescription": "Something about vocabulary",
+                                            "activities": [
+                                                {
+                                                    "activityID": "111",
+                                                    "selectLabel": "checkbox1",
+                                                    "activityName": "Vocabulary words",
+                                                    "resourceTypeName": "Video",
+                                                    "activitySourceName": "Web source",
+                                                    "videoWebSource": "https://www.testlearn.com",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "activityID": "112",
+                                                    "selectLabel": "checkbox2",
+                                                    "activityName": "Synonyms",
+                                                    "resourceTypeName": "Document",
+                                                    "activitySourceName": "Web source",
+                                                    "documentWebSource": "https://www.testlearn.com",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Nouns and pronoun",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "41",
+                                            "topicDescription": "Something about noun and pronoun",
+                                            "activities": [
+                                                {
+                                                    "activityID": "211",
+                                                    "selectLabel": "checkbox3",
+                                                    "activityName": "Difference between noun and pronoun",
+                                                    "resourceTypeName": "Video",
+                                                    "activitySourceName": "Web source",
+                                                    "videoWebSource": "https://www.testlearn.com",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "activityID": "212",
+                                                    "selectLabel": "checkbox4",
+                                                    "activityName": "Pronoun explanation",
+                                                    "resourceTypeName": "Document",
+                                                    "activitySourceName": "Web source",
+                                                    "documentWebSource": "https://www.testlearn.com",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Grammar - level 2",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "12",
+                                    "conceptName": "Grammar - level 2",
+                                    "conceptDescription": "Some description about grammer level two"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Tenses",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "51",
+                                            "topicName": "Tenses",
+                                            "topicDescription": "Something about tenses",
+                                            "activities": [
+                                                {
+                                                    "activityID": "311",
+                                                    "selectLabel": "checkbox5",
+                                                    "activityName": "Tenses with example",
+                                                    "resourceTypeName": "Document",
+                                                    "activitySourceName": "File upload",
+                                                    "documentFileUpload": "/samplecontent.txt",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "activityID": "312",
+                                                    "selectLabel": "checkbox6",
+                                                    "activityName": "Present , past and future tenses",
+                                                    "resourceTypeName": "Document",
+                                                    "activitySourceName": "File upload",
+                                                    "documentFileUpload": "/samplecontent.txt",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Sentence pattern",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "61",
+                                            "topicName": "Sentence pattern",
+                                            "topicDescription": "Something about sentence pattern",
+                                            "activities": [
+                                                {
+                                                    "activityID": "311",
+                                                    "selectLabel": "checkbox7",
+                                                    "activityName": "Tenses with example",
+                                                    "resourceTypeName": "Document",
+                                                    "activitySourceName": "Web source",
+                                                    "documentWebSource": "https://www.testlearn.com",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "activityID": "312",
+                                                    "selectLabel": "checkbox8",
+                                                    "activityName": "Present , past and future tenses",
+                                                    "resourceTypeName": "Document",
+                                                    "activitySourceName": "File upload",
+                                                    "documentFileUpload": "samplecontent.txt",
+                                                    "activityDescription": "Something",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "resourceTypeInfo": [
+            {
+                "resourceTypeID": "1",
+                "resourceTypeName": "Video "
+            },
+            {
+                "resourceTypeID": "2",
+                "resourceTypeName": "Document"
+            }
+        ],
+        "activitySourceInfo": [
+            {
+                "activitySourceID": "1",
+                "activitySourceName": "File upload"
+            },
+            {
+                "activitySourceID": "2",
+                "activitySourceName": "Web source"
+            }
+        ]
+    }
+]

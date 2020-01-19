@@ -1,0 +1,219 @@
+[
+    {
+        "createSubjectDetails": [
+            {
+                "subjectID": "1",
+                "subjectName": "English",
+                "status": "Draft",
+                "createdOn": "09-09-2019",
+                "updatedOn": "15-09-2019",
+                "updatedBy": "Rajendra doulaghar",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some description about english"
+                        }
+                    }
+                ]
+            }
+        ],
+        "editSubjectDetails": [
+            {
+                "subjectID": "1",
+                "subjectName": "English",
+                "curriculumType": "Standard curriculum",
+                "curriculumName": "CBSE",
+                "gradeName": "1",
+                "status": "Draft",
+                "createdOn": "09-09-2019",
+                "updatedOn": "15-09-2019",
+                "updatedBy": "Rajendra doulaghar",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some description about english"
+                        },
+                        "children": [
+                            {
+                                "text": "Grammar - level 1",
+                                "type": "lesson",
+                                "data": {
+                                    "lessonID": "12",
+                                    "lessonName": "Grammar - level 1",
+                                    "lessonDescription": "Some description about grammer level one",
+                                    "isLesson": true
+                                },
+                                "children": [
+                                    {
+                                        "text": "Vocabulary",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "135",
+                                            "topicName": "Vocabulary",
+                                            "topicDescription": "Some description about vocabulory",
+                                            "isLesson": false
+                                        }
+                                    },
+                                    {
+                                        "text": "Nouns and pronoun",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "138",
+                                            "topicName": "Nouns and pronoun",
+                                            "topicDescription": "Some description about nouns and pronoun",
+                                            "isLesson": false
+                                        }
+                                    },
+                                    {
+                                        "text": "Verbs and adverbs",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "136",
+                                            "topicName": "Verbs and adverbs",
+                                            "topicDescription": "Some description about verbs and adverbs",
+                                            "isLesson": false
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Grammar - level 2",
+                                "type": "lesson",
+                                "data": {
+                                    "lessonID": "12",
+                                    "lessonName": "Grammar - level 2",
+                                    "lessonDescription": "Some description about grammer level two",
+                                    "isLesson": true
+                                },
+                                "children": [
+                                    {
+                                        "text": "Tenses",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "133",
+                                            "topicName": "Tenses",
+                                            "topicDescription": "Some description about tenses",
+                                            "isLesson": false
+                                        }
+                                    },
+                                    {
+                                        "text": "Sentence pattern",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "134",
+                                            "topicName": "Sentence pattern",
+                                            "topicDescription": "Some description about sentence pattern",
+                                            "isLesson": false
+                                        }
+                                    },
+                                    {
+                                        "text": "Active voice and passive voice",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "135",
+                                            "topicName": "Active voice and passive voice",
+                                            "topicDescription": "Some description about active voice and passive voice",
+                                            "isLesson": false
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "curriculumType": [
+            {
+                "curriculumTypeID": "1",
+                "curriculumTypeName": "Standard curriculum",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    },
+                    {
+                        "curriculumName": "Stateboard - AP",
+                        "curriculumID": "12"
+                    },
+                    {
+                        "curriculumName": "Stateboard - TN",
+                        "curriculumID": "13"
+                    },
+                    {
+                        "curriculumName": "Matriculation",
+                        "curriculumID": "14"
+                    }
+                ]
+            },
+            {
+                "curriculumTypeID": "2",
+                "curriculumTypeName": "Extra curriculum"
+            }
+        ],
+        "extraCurriculumInfo": [
+            {
+                "organizationID": "11",
+                "organizationName": "Chaitanya school of education",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            },
+            {
+                "organizationID": "21",
+                "organizationName": "Oakridge international school",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            },
+            {
+                "organizationID": "31",
+                "organizationName": "Kendra vidyalaya school of institution",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            }
+        ],
+        "grades": [
+            {
+                "gradeID": "1",
+                "gradeName": "1"
+            },
+            {
+                "gradeID": "2",
+                "gradeName": "2"
+            },
+            {
+                "gradeID": "3",
+                "gradeName": "3"
+            },
+            {
+                "gradeID": "4",
+                "gradeName": "4"
+            },
+            {
+                "gradeID": "5",
+                "gradeName": "5"
+            },
+            {
+                "gradeID": "6",
+                "gradeName": "6"
+            }
+        ]
+    }
+]

@@ -1,0 +1,533 @@
+[
+    {
+        "curriculumDetails": [
+            {
+                "curriculumName": "CBSE",
+                "curriculumID": "1021"
+            },
+            {
+                "curriculumName": "Stateboard AP",
+                "curriculumID": "1023"
+            },
+            {
+                "curriculumName": "Stateboard TS",
+                "curriculumID": "1031"
+            },
+            {
+                "curriculumName": "Stateboard TN",
+                "curriculumID": "1023"
+            }
+        ],
+        "grades": [
+            {
+                "gradeName": "1",
+                "gradeID": "101"
+            },
+            {
+                "gradeName": "2",
+                "gradeID": "102"
+            },
+            {
+                "gradeName": "3",
+                "gradeID": "103"
+            },
+            {
+                "gradeName": "4",
+                "gradeID": "104"
+            },
+            {
+                "gradeName": "5",
+                "gradeID": "105"
+            },
+            {
+                "gradeName": "6",
+                "gradeID": "106"
+            },
+            {
+                "gradeName": "7",
+                "gradeID": "107"
+            },
+            {
+                "gradeName": "8",
+                "gradeID": "108"
+            },
+            {
+                "gradeName": "9",
+                "gradeID": "109"
+            },
+            {
+                "gradeName": "10",
+                "gradeID": "110"
+            }
+        ],
+        "organizations": [
+            {
+                "organizationName": "Chaitanya institution",
+                "organizationID": "101"
+            },
+            {
+                "organizationName": "Oakridge international school",
+                "organizationID": "102"
+            },
+            {
+                "organizationName": "Karunya organization",
+                "organizationID": "103"
+            },
+            {
+                "organizationName": "Amritha institution",
+                "organizationID": "104"
+            }
+        ],
+        "subjectDetails": [
+            {
+                "subjectName": "English",
+                "subjectID": "123",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some description about english"
+                        },
+                        "children": [
+                            {
+                                "text": "Grammar - level 1",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "11",
+                                    "conceptName": "Grammar - level 1",
+                                    "conceptDescription": "Some description about grammer level one"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Vocabulary",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "111",
+                                            "topicName": "Vocabulary",
+                                            "topicDescription": "Some description about vocabulary",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "questionList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "questionID": "111",
+                                                            "selectLabel": "checkbox1",
+                                                            "questionType": "Multiple choice question",
+                                                            "questionText": "What is synonym of good ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "112",
+                                                            "selectLabel": "checkbox2",
+                                                            "questionType": "Multiple choice question",
+                                                            "questionText": "What is synonym of ugly ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "questionID": "113",
+                                                            "selectLabel": "checkbox3",
+                                                            "questionType": "Multiple choice question",
+                                                            "questionText": "What is synonym of good ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "114",
+                                                            "selectLabel": "checkbox4",
+                                                            "questionType": "Multiple choice question",
+                                                            "questionText": "What is synonym of ugly ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "questionID": "115",
+                                                            "selectLabel": "checkbox5",
+                                                            "questionType": "Multiple choice question",
+                                                            "questionText": "What is synonym of good ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "116",
+                                                            "selectLabel": "checkbox6",
+                                                            "questionType": "Multiple choice question",
+                                                            "questionText": "What is synonym of ugly ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Nouns and pronoun",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "112",
+                                            "topicName": "Nouns and pronoun",
+                                            "topicDescription": "Some description about Nouns and pronoun",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "questionList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "questionID": "211",
+                                                            "selectLabel": "checkbox7",
+                                                            "questionType": "True or false",
+                                                            "questionText": "Baby is a noun or not ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "212",
+                                                            "selectLabel": "checkbox8",
+                                                            "questionType": "True or false",
+                                                            "questionText": "Team is a noun or not ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "questionID": "214",
+                                                            "selectLabel": "checkbox9",
+                                                            "questionType": "True or false",
+                                                            "questionText": "Baby is a noun or not ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "214",
+                                                            "selectLabel": "checkbox10",
+                                                            "questionType": "True or false",
+                                                            "questionText": "Team is a noun or not ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "questionID": "215",
+                                                            "selectLabel": "checkbox11",
+                                                            "questionType": "True or false",
+                                                            "questionText": "Baby is a noun or not ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "216",
+                                                            "selectLabel": "checkbox12",
+                                                            "questionType": "True or false",
+                                                            "questionText": "Team is a noun or not ?",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Verbs and adverbs",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "113",
+                                            "topicName": "Verbs and adverbs",
+                                            "topicDescription": "Some description about verbs and adverbs",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "questionList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "questionID": "311",
+                                                            "selectLabel": "checkbox21",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "He played well. Convert it into past perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "312",
+                                                            "selectLabel": "checkbox22",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Tommmorow i will go to my hometown. Convert it into future perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "questionID": "313",
+                                                            "selectLabel": "checkbox23",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "He played well. Convert it into past perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "314",
+                                                            "selectLabel": "checkbox25",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Tommmorow i will go to my hometown. Convert it into future perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "questionID": "315",
+                                                            "selectLabel": "checkbox26",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "He played well. Convert it into past perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "316",
+                                                            "orderNo": "2",
+                                                            "selectLabel": "checkbox27",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Tommmorow i will go to my hometown. Convert it into future perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Grammar - level 2",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "12",
+                                    "conceptName": "Grammar - level 2",
+                                    "conceptDescription": "Some description about grammer level two"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Tenses",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "121",
+                                            "topicName": "Tenses",
+                                            "topicDescription": "Some description about tenses",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "questionList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "questionID": "411",
+                                                            "selectLabel": "checkbox31",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "He played well. Convert it into past perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "412",
+                                                            "selectLabel": "checkbox32",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Tommmorow i will go to my hometown. Convert it into future perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "questionID": "413",
+                                                            "selectLabel": "checkbox33",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "He played well. Convert it into past perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "414",
+                                                            "selectLabel": "checkbox34",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Tommmorow i will go to my hometown. Convert it into future perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "questionID": "415",
+                                                            "selectLabel": "checkbox35",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "He played well. Convert it into past perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "416",
+                                                            "selectLabel": "checkbox36",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Tommmorow i will go to my hometown. Convert it into future perfect tense",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Sentence pattern",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "122",
+                                            "topicName": "Sentence pattern",
+                                            "topicDescription": "Some description about sentence pattern",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "questionList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "questionID": "514",
+                                                            "selectLabel": "checkbox48",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Yesterday, he played cricket. Mark a verb in a given sentence",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "515",
+                                                            "selectLabel": "checkbox47",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Yesterday, she sung very well. Mark a adjective in a given sentence",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "questionID": "516",
+                                                            "selectLabel": "checkbox44",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Yesterday, he played cricket. Mark a verb in a given sentence",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "517",
+                                                            "selectLabel": "checkbox43",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Yesterday, she sung very well. Mark a adjective in a given sentence",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "questionID": "518",
+                                                            "selectLabel": "checkbox42",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Yesterday, he played cricket. Mark a verb in a given sentence",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        },
+                                                        {
+                                                            "questionID": "519",
+                                                            "selectLabel": "checkbox41",
+                                                            "questionType": "Answer the question",
+                                                            "questionText": "Yesterday, she sung very well. Mark a adjective in a given sentence",
+                                                            "createdOn": "28-07-2019",
+                                                            "updatedOn": "30-07-2019",
+                                                            "createdBy": "Rajendra",
+                                                            "updatedBy": "Rajendra"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

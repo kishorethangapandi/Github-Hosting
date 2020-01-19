@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1011,
+        "name": "Super",
+        "tag": "SUPER",
+        "checked": false
+    },
+    {
+        "id": 1021,
+        "name": "School organisation",
+        "tag": "SCHOOL_ORG",
+        "checked": false
+    },
+    {
+        "id": 1031,
+        "name": "Retailer",
+        "tag": "RETAILER",
+        "checked": false
+    }
+]

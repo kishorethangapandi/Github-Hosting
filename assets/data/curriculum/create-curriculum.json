@@ -1,0 +1,299 @@
+[
+    {
+        "curriculumType": [
+            {
+                "curriculumTypeID": "1",
+                "curriculumTypeName": "Stanadard curriculum"
+            },
+            {
+                "curriculumTypeID": "2",
+                "curriculumTypeName": "Extra curriculum"
+            }
+        ],
+        "extraCurriculumInfo": [
+            {
+                "organizationID": "11",
+                "organizationName": "Chaitanya school of education"
+            },
+            {
+                "organizationID": "21",
+                "organizationName": "Oakridge international school"
+            },
+            {
+                "organizationID": "31",
+                "organizationName": "Kendra vidyalaya school of institution"
+            }
+        ],
+        "countries": [
+            {
+                "countryID": "111",
+                "countryName": "United states of america",
+                "states": [
+                    {
+                        "stateID": "1111",
+                        "stateName": "California"
+                    },
+                    {
+                        "stateID": "1112",
+                        "stateName": "Texas"
+                    },
+                    {
+                        "stateID": "1113",
+                        "stateName": "New jersey"
+                    },
+                    {
+                        "stateID": "1114",
+                        "stateName": "Hawaai"
+                    },
+                    {
+                        "stateID": "1115",
+                        "stateName": "Florida"
+                    }
+                ]
+            },
+            {
+                "countryID": "112",
+                "countryName": "India",
+                "states": [
+                    {
+                        "stateID": "1121",
+                        "stateName": "Jammu and kashmir"
+                    },
+                    {
+                        "stateID": "1122",
+                        "stateName": "Delhi"
+                    },
+                    {
+                        "stateID": "1123",
+                        "stateName": "Telangana"
+                    },
+                    {
+                        "stateID": "1124",
+                        "stateName": "Tamilnadu"
+                    },
+                    {
+                        "stateID": "1125",
+                        "stateName": "Andra pradesh"
+                    },
+                    {
+                        "stateID": "1126",
+                        "stateName": "Kerala"
+                    }
+                ]
+            }
+        ],
+        "months": [
+            {
+                "monthID": "1",
+                "monthName": "Jan"
+            },
+            {
+                "monthID": "2",
+                "monthName": "Feb"
+            },
+            {
+                "monthID": "3",
+                "monthName": "Mar"
+            },
+            {
+                "monthID": "4",
+                "monthName": "Apr"
+            },
+            {
+                "monthID": "5",
+                "monthName": "May"
+            },
+            {
+                "monthID": "6",
+                "monthName": "Jun"
+            },
+            {
+                "monthID": "7",
+                "monthName": "Jul"
+            },
+            {
+                "monthID": "8",
+                "monthName": "Aug"
+            },
+            {
+                "monthID": "9",
+                "monthName": "Sep"
+            },
+            {
+                "monthID": "10",
+                "monthName": "Oct"
+            },
+            {
+                "monthID": "11",
+                "monthName": "Nov"
+            },
+            {
+                "monthID": "12",
+                "monthName": "Dec"
+            }
+        ],
+        "grades": [
+            {
+                "gradeID": "1",
+                "gradeName": "1"
+            },
+            {
+                "gradeID": "2",
+                "gradeName": "2"
+            },
+            {
+                "gradeID": "3",
+                "gradeName": "3"
+            },
+            {
+                "gradeID": "4",
+                "gradeName": "4"
+            },
+            {
+                "gradeID": "5",
+                "gradeName": "5"
+            },
+            {
+                "gradeID": "6",
+                "gradeName": "6"
+            },
+            {
+                "gradeID": "7",
+                "gradeName": "7"
+            },
+            {
+                "gradeID": "8",
+                "gradeName": "8"
+            },
+            {
+                "gradeID": "9",
+                "gradeName": "9"
+            },
+            {
+                "gradeID": "10",
+                "gradeName": "10"
+            },
+            {
+                "gradeID": "11",
+                "gradeName": "11"
+            },
+            {
+                "gradeID": "12",
+                "gradeName": "12"
+            }
+        ],
+        "curriculumDetails": [
+            {
+                "curriculumID": "101",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculumDescription": "Something ...",
+                "organizationName": "Chaitanya school of education",
+                "curriculumName": "CBSE",
+                "country": "India",
+                "state": "Telangana",
+                "startMonth": "Jan",
+                "endMonth": "Dec",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "status": "Active",
+                "affiliationDetails": [
+                    {
+                        "schoolOrganizationID": "111",
+                        "schoolOrganizationName": "Chaitanya higher secondary school",
+                        "country": "India",
+                        "state": "Telangana",
+                        "city": "Gachibowli"
+                    },
+                    {
+                        "schoolOrganizationID": "121",
+                        "schoolOrganizationName": "Chaitanya school of CBSE",
+                        "country": "India",
+                        "state": "Telangana",
+                        "city": "Lingampally"
+                    },
+                    {
+                        "schoolOrganizationID": "131",
+                        "schoolOrganizationName": "Chaitanya matriculation education",
+                        "country": "India",
+                        "state": "Telangana",
+                        "city": "Secunderabad"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "102",
+                "organizationName": "Kendra vidyalaya school of institution",
+                "curriculumName": "Stateboard",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculumDescription": "Something ...",
+                "country": "India",
+                "state": "Tamilnadu",
+                "startMonth": "Jan",
+                "endMonth": "Dec",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "status": "Inactive",
+                "affiliationDetails": [
+                    {
+                        "schoolOrganizationID": "211",
+                        "schoolOrganizationName": "Kendra vidyalaya higher secondary school",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Madurai"
+                    },
+                    {
+                        "schoolOrganizationID": "221",
+                        "schoolOrganizationName": "Kendra vidyalaya school of CBSE",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Chennai"
+                    },
+                    {
+                        "schoolOrganizationID": "231",
+                        "schoolOrganizationName": "Kendra vidyala matriculation education",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Kanyakumari"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "103",
+                "organizationName": "Oakridge international school",
+                "curriculumName": "Matriculation",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculumDescription": "Something ...",
+                "country": "United states of america",
+                "state": "Florida",
+                "startMonth": "Jan",
+                "endMonth": "Dec",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "status": "Draft",
+                "affiliationDetails": [
+                    {
+                        "schoolOrganizationID": "311",
+                        "schoolOrganizationName": "Oakridge higher secondary school",
+                        "country": "India",
+                        "state": "Andra pradesh",
+                        "city": "Dhoni"
+                    },
+                    {
+                        "schoolOrganizationID": "321",
+                        "schoolOrganizationName": "Oakridge vidyalaya school of CBSE",
+                        "country": "India",
+                        "state": "Andra pradesh",
+                        "city": "Triupathi"
+                    },
+                    {
+                        "schoolOrganizationID": "331",
+                        "schoolOrganizationName": "Oakridge matriculation school",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Kundoor"
+                    }
+                ]
+            }
+        ]
+    }
+]

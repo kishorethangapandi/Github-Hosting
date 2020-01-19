@@ -1,0 +1,486 @@
+[
+    {
+        "subsidiarySchools": [
+            {
+                "schoolID": "1211",
+                "schoolName": "Karunya primary school",
+                "city": "Gachibowli",
+                "curriculum": "CBSE",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "1212",
+                "schoolName": "Karunya secondary school",
+                "city": "Lingampally",
+                "curriculum": "CBSE",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "1213",
+                "schoolName": "Karunya higher secondary school",
+                "city": "LB nagar",
+                "curriculum": "Matriculation",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "1214",
+                "schoolName": "Karunya higher secondary school",
+                "city": "Nizampet",
+                "curriculum": "CBSE",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "2321",
+                "schoolName": "Amritha matriculation school",
+                "city": "Chennai",
+                "curriculum": "Matriculation",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "2322",
+                "schoolName": "Amritha secondary school",
+                "city": "Madurai",
+                "curriculum": "CBSE",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "2323",
+                "schoolName": "Amritha higher secondary school",
+                "city": "Kanyakumari",
+                "curriculum": "Statebard",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "5431",
+                "schoolName": "Chaitanya secondary school",
+                "city": "Secundarabad",
+                "curriculum": "Matriculation",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "5432",
+                "schoolName": "Chaitanya higher secondary school",
+                "city": "Nampally",
+                "curriculum": "Stateboard",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            },
+            {
+                "schoolID": "5433",
+                "schoolName": "Chaitanya higher secondary school",
+                "city": "Lingampally",
+                "curriculum": "CBSE",
+                "schoolUserDetails": [
+                    {
+                        "schoolUserID": "11",
+                        "loginID": "rajendra@hsm.com",
+                        "firstName": "Rajendra",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839202312",
+                        "emailID": "rajendra@hsm.com",
+                        "role": "School admin",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    },
+                    {
+                        "schoolUserID": "12",
+                        "loginID": "kiran@hsm.com",
+                        "firstName": "Kiran",
+                        "lastName": "Kumar",
+                        "mobile": "7839202312",
+                        "emailID": "kiran@hsm.com",
+                        "role": "Principal",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Rajendra",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Rajendra"
+                    },
+                    {
+                        "schoolUserID": "13",
+                        "loginID": "naveen@hsm.com",
+                        "firstName": "Naveen",
+                        "lastName": "Doulaghar",
+                        "mobile": "7839122312",
+                        "emailID": "naveen@hsm.com",
+                        "role": "School admin",
+                        "StandardColumns": "-",
+                        "createdOn": "19-09-2018",
+                        "createdBy": "Kiran",
+                        "updatedOn": "19-09-2018",
+                        "updatedBy": "Kiran"
+                    }
+                ]
+            }
+        ]
+    }
+]

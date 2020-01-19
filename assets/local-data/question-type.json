@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "MCQ - single answer",
+        "type": "MCQ_SINGLE",
+        "router": "./mcqstandard",
+        "imgsrc": "./assets/img/mcq/mcq-single.png",
+        "checked": false
+    },
+    {
+        "id": "2",
+        "name": "MCQ - multiple answers",
+        "type": "MCQ_MULTIPLE",
+        "router": "./mcqmultiple",
+        "imgsrc": "./assets/img/mcq/mcq-multi.png",
+        "checked": false
+    },
+    {
+        "id": "3",
+        "name": "MCQ - true or false",
+        "type": "MCQ_TRUE_FALSE",
+        "router": "./mcqtruefalse",
+        "imgsrc": "./assets/img/mcq/mcq-tf.png",
+        "checked": false
+    },
+    {
+        "id": "4",
+        "name": "Choice matrix",
+        "type": "MCQ_CHOICE_MATRIX",
+        "router": "./mcqchoicematrix",
+        "imgsrc": "./assets/img/mcq/mcq-matrix.png",
+        "checked": false
+    },
+    {
+        "id": "5",
+        "name": "Match list",
+        "type": "MCQ_MATCH_LIST",
+        "router": "./matchlist",
+        "imgsrc": "./assets/img/mcq/mcq-matchlist.png",
+        "checked": false
+    }
+]

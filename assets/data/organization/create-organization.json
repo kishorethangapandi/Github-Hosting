@@ -1,0 +1,282 @@
+[
+    {
+        "countries": [
+            {
+                "countryID": "111",
+                "countryName": "United states of america",
+                "states": [
+                    {
+                        "stateID": "1111",
+                        "stateName": "California",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Amador city"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Apple valley"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Arcate"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1112",
+                        "stateName": "Texas",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Amador city"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Apple valley"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Arcate"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1113",
+                        "stateName": "New jersey",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Amador city"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Apple valley"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Arcate"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1114",
+                        "stateName": "Hawaai",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Amador city"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Apple valley"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Arcate"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1115",
+                        "stateName": "Florida",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Amador city"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Apple valley"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Arcate"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "countryID": "112",
+                "countryName": "India",
+                "states": [
+                    {
+                        "stateID": "1121",
+                        "stateName": "Jammu and kashmir",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Karkil"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Gulmarg"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Yuzmarg"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1122",
+                        "stateName": "Delhi",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Karkil"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Gulmarg"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Yuzmarg"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1123",
+                        "stateName": "Telangana",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Hyderabad"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Secunderbad"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Mahbudnagar"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1124",
+                        "stateName": "Tamilnadu",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Chennai"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Madurai"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Coimbatore"
+                            }
+                        ]
+                    },
+                    {
+                        "stateID": "1126",
+                        "stateName": "Kerala",
+                        "cities": [
+                            {
+                                "cityID": "11",
+                                "cityName": "Kollam"
+                            },
+                            {
+                                "cityID": "12",
+                                "cityName": "Tiruvandapuram"
+                            },
+                            {
+                                "cityID": "13",
+                                "cityName": "Sentokkatai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "organizationUserRole": [
+            {
+                "organizationUserRoleID": "1234",
+                "organizationUserRoleName": "Organization admin"
+            },
+            {
+                "organizationUserRoleID": "1235",
+                "organizationUserRoleName": "Content admin"
+            }
+        ],
+        "schoolUserRole": [
+            {
+                "schoolUserRoleID": "1234",
+                "schoolUserRoleName": "School admin"
+            },
+            {
+                "schoolUserRoleID": "1235",
+                "schoolUserRoleName": "Principal"
+            }
+        ],
+        "grades": [
+            {
+                "gradeID": "1",
+                "gradeName": "1"
+            },
+            {
+                "gradeID": "2",
+                "gradeName": "2"
+            },
+            {
+                "gradeID": "3",
+                "gradeName": "3"
+            },
+            {
+                "gradeID": "4",
+                "gradeName": "4"
+            },
+            {
+                "gradeID": "5",
+                "gradeName": "5"
+            },
+            {
+                "gradeID": "6",
+                "gradeName": "6"
+            }
+        ],
+        "curriculumDetails": [
+            {
+                "curriculumID": "121",
+                "curriculumName": "CBSE",
+                "fromMonth": "Mar",
+                "endMonth": "Feb",
+                "fromGrade": "1",
+                "toGrade": "10",
+                "subjects": "Mathematics,English,Science,Social science"
+            },
+            {
+                "curriculumID": "123",
+                "curriculumName": "Stateboard - TN",
+                "fromMonth": "Mar",
+                "endMonth": "Feb",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "subjects": "Mathematics,English,Science,Social science"
+            },
+            {
+                "curriculumID": "124",
+                "curriculumName": "Stateboard - TS",
+                "fromMonth": "Mar",
+                "endMonth": "Feb",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "subjects": "Mathematics,English,Science,Social science"
+            },
+            {
+                "curriculumID": "124",
+                "curriculumName": "Matriculation - TS",
+                "fromMonth": "Mar",
+                "endMonth": "Feb",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "subjects": "Mathematics,English,Science,Social science"
+            }
+        ]
+    }
+]

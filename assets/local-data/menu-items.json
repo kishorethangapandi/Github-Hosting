@@ -1,0 +1,79 @@
+[
+    {
+        "displayName": "General subject administration",
+        "iconName": "",
+        "child": true,
+        "children": [
+            {
+                "displayName": "Subjects",
+                "route": "/general-subject"
+            },
+            {
+                "displayName": "Topic content mapping",
+                "route": "/general-concept-and-topic/general-topic-content"
+            },
+            {
+                "displayName": "Topic questions",
+                "route": "/general-concept-and-topic/general-topic-question"
+            }
+        ]
+    },
+    {
+        "displayName": "Curriculum  administration",
+        "iconName": "",
+        "child": true,
+        "children": [
+            {
+                "displayName": "Manage curriculums",
+                "route": "/curriculum"
+            },
+            {
+                "displayName": "Manage subjects",
+                "route": "/subject"
+            },
+            {
+                "displayName": "Manage lesson topics",
+                "route": "/lesson-topic/lesson-topic-manage"
+            },
+            {
+                "displayName": "Manage prerequisite topics",
+                "route": "/lesson-topic/prerequisite-lesson-topic-manage"
+            }
+        ]
+    },
+    {
+        "displayName": "Curriculum content administration",
+        "iconName": "",
+        "child": true,
+        "children": [
+            {
+                "displayName": "Topic content",
+                "route": "/lesson-topic/topic-content"
+            },
+            {
+                "displayName": "Topic questions",
+                "route": "/lesson-topic/topic-question"
+            },
+            {
+                "displayName": "Additional lesson resources",
+                "route": "/lesson-topic/additional-resources"
+            },
+            {
+                "displayName": "Manage lesson plans",
+                "route": "/lesson-topic/lesson-plans"
+            }
+        ]
+    },
+    {
+        "displayName": "Organisation  administration",
+        "iconName": "",
+        "route": "/organisation",
+        "child": false
+    },
+    {
+        "displayName": "User  administration",
+        "iconName": "",
+        "route": "/user/manage-users",
+        "child": false
+    }
+]

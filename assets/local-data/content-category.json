@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Lesson content",
+        "tag": "LESSON_CONTENT"
+    },
+    {
+        "id": 2,
+        "name": "General",
+        "tag": "GENERAL"
+    },
+    {
+        "id": 3,
+        "name": "Worksheets",
+        "tag": "WORK_SHEETS"
+    },
+    {
+        "id": 4,
+        "name": "Mind maps",
+        "tag": "MIND_MAPS"
+    },
+    {
+        "id": 5,
+        "name": "Activity",
+        "tag": "LESSON_CONTENT"
+    },
+    {
+        "id": 6,
+        "name": "Important points",
+        "tag": "IMPORTANT_POINTS"
+    }
+]

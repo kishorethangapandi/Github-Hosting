@@ -1,0 +1,422 @@
+[
+    {
+        "curriculumDetails": [
+            {
+                "curriculumName": "CBSE",
+                "curriculumID": "1021"
+            },
+            {
+                "curriculumName": "Stateboard AP",
+                "curriculumID": "1023"
+            },
+            {
+                "curriculumName": "Stateboard TS",
+                "curriculumID": "1031"
+            },
+            {
+                "curriculumName": "Stateboard TN",
+                "curriculumID": "1023"
+            }
+        ],
+        "grades": [
+            {
+                "gradeName": "1",
+                "gradeID": "101"
+            },
+            {
+                "gradeName": "2",
+                "gradeID": "102"
+            },
+            {
+                "gradeName": "3",
+                "gradeID": "103"
+            },
+            {
+                "gradeName": "4",
+                "gradeID": "104"
+            },
+            {
+                "gradeName": "5",
+                "gradeID": "105"
+            },
+            {
+                "gradeName": "6",
+                "gradeID": "106"
+            },
+            {
+                "gradeName": "7",
+                "gradeID": "107"
+            },
+            {
+                "gradeName": "8",
+                "gradeID": "108"
+            },
+            {
+                "gradeName": "9",
+                "gradeID": "109"
+            },
+            {
+                "gradeName": "10",
+                "gradeID": "110"
+            }
+        ],
+        "organizations": [
+            {
+                "organizationName": "Chaitanya institution",
+                "organizationID": "101"
+            },
+            {
+                "organizationName": "Oakridge international school",
+                "organizationID": "102"
+            },
+            {
+                "organizationName": "Karunya organization",
+                "organizationID": "103"
+            },
+            {
+                "organizationName": "Amritha institution",
+                "organizationID": "104"
+            }
+        ],
+        "resourceCategoryDetails": [
+            {
+                "resourceCategoryID": "1",
+                "resourceCategoryName": "Lesson PDF"
+            },
+            {
+                "resourceCategoryID": "2",
+                "resourceCategoryName": "Worksheets"
+            },
+            {
+                "resourceCategoryID": "3",
+                "resourceCategoryName": "General"
+            }
+        ],
+        "resourceTypeDetails": [
+            {
+                "resourceTypeID": "1",
+                "resourceTypeName": "Video"
+            },
+            {
+                "resourceTypeID": "2",
+                "resourceTypeName": "Document"
+            }
+        ],
+        "contentSourceDetails": [
+            {
+                "contentSourceID": "1",
+                "contentSourceName": "File upload"
+            },
+            {
+                "contentSourceID": "2",
+                "contentSourceName": "Web URL"
+            }
+        ],
+        "subjectDetails": [
+            {
+                "subjectName": "English",
+                "subjectID": "123",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some resourceDescription about english"
+                        },
+                        "children": [
+                            {
+                                "text": "Grammar - level 1",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "11",
+                                    "conceptName": "Grammar - level 1",
+                                    "conceptDescription": "Some resourceDescription about grammer level one",
+                                    "resourcesLists": [
+                                        {
+                                            "resourcesByCE": [
+                                                {
+                                                    "resourceID": "5501",
+                                                    "selectedLabel": "checkbox1",
+                                                    "resourceName": "Vocabulory words",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Basic vocabulory words",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5502",
+                                                    "selectedLabel": "checkbox2",
+                                                    "resourceName": "Tenses",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Tenses explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5503",
+                                                    "selectedLabel": "checkbox3",
+                                                    "resourceName": "Sentence pattern",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Video",
+                                                    "contentSource": "Web URL",
+                                                    "webURL": "www.youtube.sd/sentencepattern",
+                                                    "resourceDescription": "Sentence pattern",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ],
+                                            "resourcesByOrganizations": [
+                                                {
+                                                    "resourceID": "5501",
+                                                    "selectedLabel": "checkbox1",
+                                                    "resourceName": "Vocabulory words",
+                                                    "resourceCategory": "Worksheets",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Basic vocabulory words",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5502",
+                                                    "selectedLabel": "checkbox2",
+                                                    "resourceName": "Tenses",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Tenses explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5503",
+                                                    "selectedLabel": "checkbox3",
+                                                    "resourceName": "Sentence pattern",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Video",
+                                                    "contentSource": "Web URL",
+                                                    "webURL": "www.youtube.sd/sentencepattern",
+                                                    "resourceDescription": "Sentence pattern",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ],
+                                            "ownResources": [
+                                                {
+                                                    "resourceID": "5504",
+                                                    "selectedLabel": "checkbox4",
+                                                    "resourceName": "Vocabulory words",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "Vocubulorywords.pdf",
+                                                    "resourceDescription": "Basic vocabulory words",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5505",
+                                                    "selectedLabel": "checkbox5",
+                                                    "resourceName": "Tenses",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "Tenseswords.pdf",
+                                                    "resourceDescription": "Tenses explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5506",
+                                                    "selectedLabel": "checkbox6",
+                                                    "resourceName": "Sentence pattern",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Video",
+                                                    "webURL": "www.youtube.sd/sentencepattern",
+                                                    "resourceDescription": "Sentence pattern",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "text": "Grammar - level 2",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "12",
+                                    "conceptName": "Grammar - level 2",
+                                    "conceptDescription": "Some resourceDescription about grammer level two",
+                                    "resourcesLists": [
+                                        {
+                                            "resourcesByCE": [
+                                                {
+                                                    "resourceID": "5507",
+                                                    "selectedLabel": "checkbox7",
+                                                    "resourceName": "Direct and indirect sentence",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Basic direct and indirect sentence",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5508",
+                                                    "selectedLabel": "checkbox8",
+                                                    "resourceName": "Active and passive voice",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Active and passive voice explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5509",
+                                                    "selectedLabel": "checkbox9",
+                                                    "resourceName": "Imperative sentences",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Video",
+                                                    "webURL": "www.youtube.sd/Imperative-sentences",
+                                                    "resourceDescription": "Imperative sentences explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ],
+                                            "resourcesByOrganizations": [
+                                                {
+                                                    "resourceID": "5510",
+                                                    "selectedLabel": "checkbox10",
+                                                    "resourceName": "Direct and indirect sentence",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Basic direct and indirect sentence",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5511",
+                                                    "selectedLabel": "checkbox11",
+                                                    "resourceName": "Active and passive voice",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Active and passive voice explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5512",
+                                                    "selectedLabel": "checkbox12",
+                                                    "resourceName": "Imperative sentences",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Video",
+                                                    "contentSource": "Web URL",
+                                                    "webURL": "www.youtube.sd/Imperative-sentences",
+                                                    "resourceDescription": "Imperative sentences explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ],
+                                            "ownResources": [
+                                                {
+                                                    "resourceID": "5513",
+                                                    "selectedLabel": "checkbox13",
+                                                    "resourceName": "Direct and indirect sentence",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Basic direct and indirect sentence",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5514",
+                                                    "selectedLabel": "checkbox14",
+                                                    "resourceName": "Active and passive voice",
+                                                    "resourceCategory": "Lesson PDF",
+                                                    "resourceType": "Document",
+                                                    "contentSource": "File upload",
+                                                    "file": "//C:/fakepath/sample.pdf",
+                                                    "resourceDescription": "Active and passive voice explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                },
+                                                {
+                                                    "resourceID": "5515",
+                                                    "selectedLabel": "checkbox15",
+                                                    "resourceName": "Imperative sentences",
+                                                    "resourceCategory": "General",
+                                                    "resourceType": "Video",
+                                                    "contentSource": "Web URL",
+                                                    "webURL": "www.youtube.sd/Imperative-sentences",
+                                                    "resourceDescription": "Imperative sentences explanation",
+                                                    "createdOn": "28-07-2019",
+                                                    "updatedOn": "30-07-2019",
+                                                    "createdBy": "Rajendra",
+                                                    "updatedBy": "Rajendra"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

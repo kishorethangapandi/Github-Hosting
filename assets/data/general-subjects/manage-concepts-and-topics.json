@@ -1,0 +1,330 @@
+[
+    {
+        "subjectDetails": [
+            {
+                "subjectID": "1",
+                "subjectName": "English",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some description about english"
+                        },
+                        "children": [
+                            {
+                                "text": "Grammar - level 1",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "11",
+                                    "conceptName": "Grammar - level 1",
+                                    "conceptDescription": "Some description about grammer level one"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Vocabulary",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "111",
+                                            "topicName": "Vocabulary",
+                                            "topicDescription": "Some description about vocabulary",
+                                            "curriculum": "CBSE",
+                                            "grade": "5"
+                                        }
+                                    },
+                                    {
+                                        "text": "Nouns and pronoun",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "112",
+                                            "topicName": "Nouns and pronoun",
+                                            "topicDescription": "Some description about Nouns and pronoun",
+                                            "subject": "English",
+                                            "curriculum": "CBSE",
+                                            "grade": "5"
+                                        }
+                                    },
+                                    {
+                                        "text": "Verbs and adverbs",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "113",
+                                            "topicName": "Verbs and adverbs",
+                                            "topicDescription": "Some description about verbs and adverbs explanation",
+                                            "subject": "English",
+                                            "curriculum": "CBSE",
+                                            "grade": "5"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Grammar - level 2",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "12",
+                                    "conceptName": "Grammar - level 2",
+                                    "conceptDescription": "Some description about grammer level two"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Tenses",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "121",
+                                            "topicName": "Tenses",
+                                            "topicDescription": "Some description about tenses",
+                                            "curriculum": "CBSE",
+                                            "grade": "5"
+                                        }
+                                    },
+                                    {
+                                        "text": "Sentence pattern",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "122",
+                                            "topicName": "Sentence pattern",
+                                            "topicDescription": "Some description about sentence pattern",
+                                            "curriculum": "CBSE",
+                                            "grade": "5"
+                                        }
+                                    },
+                                    {
+                                        "text": "Active voice and passive voice",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "123",
+                                            "topicName": "Active voice and passive voice",
+                                            "topicDescription": "Some description about active voice and passive voice",
+                                            "curriculum": "CBSE",
+                                            "grade": "5"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "subjectID": "2",
+                "subjectName": "Mathematics",
+                "tree": [
+                    {
+                        "text": "Mathematics",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "Mathematics",
+                            "subjectDescription": "Some description about mathematics"
+                        }
+                    }
+                ]
+            }
+        ],
+        "curriculumDetails": [
+            {
+                "curriculumID": "2111",
+                "curriculumName": "CBSE",
+                "grades": [
+                    {
+                        "gradeID": "1",
+                        "gradeName": "1"
+                    },
+                    {
+                        "gradeID": "2",
+                        "gradeName": "2"
+                    },
+                    {
+                        "gradeID": "3",
+                        "gradeName": "3"
+                    },
+                    {
+                        "gradeID": "4",
+                        "gradeName": "4"
+                    },
+                    {
+                        "gradeID": "5",
+                        "gradeName": "5"
+                    },
+                    {
+                        "gradeID": "6",
+                        "gradeName": "6"
+                    },
+                    {
+                        "gradeID": "7",
+                        "gradeName": "7"
+                    },
+                    {
+                        "gradeID": "8",
+                        "gradeName": "8"
+                    },
+                    {
+                        "gradeID": "9",
+                        "gradeName": "9"
+                    },
+                    {
+                        "gradeID": "10",
+                        "gradeName": "10"
+                    },
+                    {
+                        "gradeID": "11",
+                        "gradeName": "11"
+                    },
+                    {
+                        "gradeID": "12",
+                        "gradeName": "12"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "2222",
+                "curriculumName": "Stateboard - TN",
+                "grades": [
+                    {
+                        "gradeID": "1",
+                        "gradeName": "1"
+                    },
+                    {
+                        "gradeID": "2",
+                        "gradeName": "2"
+                    },
+                    {
+                        "gradeID": "3",
+                        "gradeName": "3"
+                    },
+                    {
+                        "gradeID": "4",
+                        "gradeName": "4"
+                    },
+                    {
+                        "gradeID": "5",
+                        "gradeName": "5"
+                    },
+                    {
+                        "gradeID": "6",
+                        "gradeName": "6"
+                    },
+                    {
+                        "gradeID": "7",
+                        "gradeName": "7"
+                    },
+                    {
+                        "gradeID": "8",
+                        "gradeName": "8"
+                    },
+                    {
+                        "gradeID": "9",
+                        "gradeName": "9"
+                    },
+                    {
+                        "gradeID": "10",
+                        "gradeName": "10"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "2333",
+                "curriculumName": "Stateboard - TS",
+                "grades": [
+                    {
+                        "gradeID": "1",
+                        "gradeName": "1"
+                    },
+                    {
+                        "gradeID": "2",
+                        "gradeName": "2"
+                    },
+                    {
+                        "gradeID": "3",
+                        "gradeName": "3"
+                    },
+                    {
+                        "gradeID": "4",
+                        "gradeName": "4"
+                    },
+                    {
+                        "gradeID": "5",
+                        "gradeName": "5"
+                    },
+                    {
+                        "gradeID": "6",
+                        "gradeName": "6"
+                    },
+                    {
+                        "gradeID": "7",
+                        "gradeName": "7"
+                    },
+                    {
+                        "gradeID": "8",
+                        "gradeName": "8"
+                    },
+                    {
+                        "gradeID": "9",
+                        "gradeName": "9"
+                    },
+                    {
+                        "gradeID": "10",
+                        "gradeName": "10"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "2444",
+                "curriculumName": "Matriculation - AP",
+                "grades": [
+                    {
+                        "gradeID": "1",
+                        "gradeName": "1"
+                    },
+                    {
+                        "gradeID": "2",
+                        "gradeName": "2"
+                    },
+                    {
+                        "gradeID": "3",
+                        "gradeName": "3"
+                    },
+                    {
+                        "gradeID": "4",
+                        "gradeName": "4"
+                    },
+                    {
+                        "gradeID": "5",
+                        "gradeName": "5"
+                    },
+                    {
+                        "gradeID": "6",
+                        "gradeName": "6"
+                    },
+                    {
+                        "gradeID": "7",
+                        "gradeName": "7"
+                    },
+                    {
+                        "gradeID": "8",
+                        "gradeName": "8"
+                    },
+                    {
+                        "gradeID": "9",
+                        "gradeName": "9"
+                    },
+                    {
+                        "gradeID": "10",
+                        "gradeName": "10"
+                    }
+                ]
+            }
+        ],
+        "nodeTypeDetails": [
+            {
+                "nodeTypeID": "1",
+                "nodeTypeName": "concept"
+            },
+            {
+                "nodeTypeID": "2",
+                "nodeTypeName": "topic"
+            }
+        ]
+    }
+]

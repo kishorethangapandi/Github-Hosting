@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "File upload",
+        "tag": "FILE_UPLOAD",
+        "disabled": false,
+        "checked": false
+    },
+    {
+        "id": 2,
+        "name": "Web URL",
+        "tag": "WEB_URL",
+        "disabled": false,
+        "checked": false
+    }
+]

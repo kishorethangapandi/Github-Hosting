@@ -1,0 +1,18 @@
+[
+    {
+        "hostId": 1,
+        "hostName": "YOUTUBE"
+    },
+    {
+        "hostId": 2,
+        "hostName": "VIMEO"
+    },
+    {
+        "hostId": 3,
+        "hostName": "AWS"
+    },
+    {
+        "hostId": 4,
+        "hostName": "OTHERS"
+    }
+]

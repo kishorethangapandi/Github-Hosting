@@ -1,0 +1,200 @@
+[
+    {
+        "ID": "1",
+        "SubjectName": "English",
+        "tree": [
+            {
+                "text": "English",
+                "type": "#",
+                "state": {
+                    "opened": true,
+                    "selected": false,
+                    "disabled": true
+                },
+                "children": [
+                    {
+                        "text": "Grammar - level 1",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Nouns and Pronoun",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Verb and adverb",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Adjectives and conjuntion",
+                                "type": "topic"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Grammar - level 2",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Tenses",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Vocabulary",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Active voice and passive voice",
+                                "type": "topic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "2",
+        "SubjectName": "Mathematics",
+        "tree": [
+            {
+                "text": "Mathematics",
+                "type": "#",
+                "state": {
+                    "opened": true,
+                    "selected": false,
+                    "disabled": true
+                },
+                "children": [
+                    {
+                        "text": "Number system",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Addition and subtraction of numbers",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "LCF and GCF",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Fractional numbers",
+                                "type": "topic"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Algebra",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Lines and angles",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Geometric shapes",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Area and perimeter",
+                                "type": "topic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ID": "3",
+        "SubjectName": "Science",
+        "tree": [
+            {
+                "text": "Science",
+                "type": "#",
+                "state": {
+                    "opened": true,
+                    "selected": false,
+                    "disabled": true
+                },
+                "children": [
+                    {
+                        "text": "Physics",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Units and measurements",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Law of motion",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Thermodynamics",
+                                "type": "topic"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Chemistry",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Structure of atom",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Equilibrium",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Redox reactions",
+                                "type": "topic"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Biology",
+                        "type": "concept",
+                        "state": {
+                            "opened": true
+                        },
+                        "children": [
+                            {
+                                "text": "Biological classification",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Plant kingdom",
+                                "type": "topic"
+                            },
+                            {
+                                "text": "Animal kingdom",
+                                "type": "topic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

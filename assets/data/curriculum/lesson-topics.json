@@ -1,0 +1,326 @@
+[
+    {
+        "curriculumType": [
+            {
+                "curriculumTypeID": "1",
+                "curriculumTypeName": "Standard curriculum",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    },
+                    {
+                        "curriculumName": "Stateboard - AP",
+                        "curriculumID": "12"
+                    },
+                    {
+                        "curriculumName": "Stateboard - TN",
+                        "curriculumID": "13"
+                    },
+                    {
+                        "curriculumName": "Matriculation",
+                        "curriculumID": "14"
+                    }
+                ],
+                "subjectDetails": [
+                    {
+                        "subjectID": "1",
+                        "subjectName": "English",
+                        "tree": [
+                            {
+                                "text": "English",
+                                "type": "root",
+                                "data": {
+                                    "subjectName": "English",
+                                    "subjectDescription": "Some description about english"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Grammar - level 1",
+                                        "type": "lesson",
+                                        "data": {
+                                            "lessonID": "11",
+                                            "lessonName": "Grammar - level 1",
+                                            "lessonDescription": "Some description about grammer level one",
+                                            "topicsList": [
+                                                {
+                                                    "selectLabel": "checkbox1",
+                                                    "topicID": "31",
+                                                    "newtopicName": "Basic vocabulary",
+                                                    "topicName": "Vocabulary",
+                                                    "topicDescription": "Something about vocabulary",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 1",
+                                                    "addedOn": "27-02-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox2",
+                                                    "topicID": "41",
+                                                    "newtopicName": "Basic noun and pronoun",
+                                                    "topicName": "Noun and pronoun",
+                                                    "topicDescription": "Something about noun and pronoun",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 1",
+                                                    "addedOn": "27-02-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox3",
+                                                    "topicID": "51",
+                                                    "newtopicName": "Basic tenses",
+                                                    "topicName": "Tenses",
+                                                    "topicDescription": "Something about tenses",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 1",
+                                                    "addedOn": "27-02-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox4",
+                                                    "topicID": "61",
+                                                    "newtopicName": "Punctuation",
+                                                    "topicName": "Puntuation",
+                                                    "topicDescription": "Something about puntuation",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 1",
+                                                    "addedOn": "27-02-2019"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Grammar - level 2",
+                                        "type": "lesson",
+                                        "data": {
+                                            "lessonID": "11",
+                                            "lessonName": "Grammar - level 2",
+                                            "lessonDescription": "Some description about grammer level two",
+                                            "topicsList": [
+                                                {
+                                                    "selectLabel": "checkbox5",
+                                                    "topicID": "32",
+                                                    "topicName": "Sentence pattern",
+                                                    "newtopicName": "Sentence pattern",
+                                                    "topicDescription": "Something about sentence pattern",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 2",
+                                                    "addedOn": "29-03-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox6",
+                                                    "topicID": "42",
+                                                    "topicName": "Active and passive voice",
+                                                    "newtopicName": "Sentence pattern",
+                                                    "topicDescription": "Something about active and passive voice",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 2",
+                                                    "addedOn": "28-03-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox7",
+                                                    "topicID": "52",
+                                                    "topicName": "Direct and indirect sentence",
+                                                    "newtopicName": "Sentence pattern",
+                                                    "topicDescription": "Something about direct and indirect sentence",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 2",
+                                                    "addedOn": "30-03-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox8",
+                                                    "topicID": "62",
+                                                    "topicName": "Statement and imperative sentence",
+                                                    "newtopicName": "Sentence pattern",
+                                                    "topicDescription": "Something about statement and imperative sentence",
+                                                    "primaryApplicableGrade": "CBSE.3",
+                                                    "otherApplicableGrades": "AP.3, TN.4",
+                                                    "subject": "English",
+                                                    "concepts": "Grammer level 2",
+                                                    "addedOn": "31-03-2019"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "curriculumTypeID": "2",
+                "curriculumTypeName": "Extra curriculum",
+                "subjectDetails": [
+                    {
+                        "subjectID": "2",
+                        "subjectName": "Robotics",
+                        "tree": [
+                            {
+                                "text": "Robotics",
+                                "type": "root",
+                                "data": {
+                                    "subjectName": "Robotics",
+                                    "subjectDescription": "Some description about robotics"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Introduction to  robotics",
+                                        "type": "lesson",
+                                        "data": {
+                                            "lessonID": "43",
+                                            "lessonName": "Introduction to  robotics",
+                                            "lessonDescription": "Some description about introduction to robotics",
+                                            "topicsList": [
+                                                {
+                                                    "selectLabel": "checkbox1",
+                                                    "topicID": "74",
+                                                    "topicName": "What is robotics and its functions ?",
+                                                    "contentName": "Robotics and its functions",
+                                                    "contentSource": "https:www.robotics.com",
+                                                    "description": "Something about robot functions",
+                                                    "subject": "Robotics",
+                                                    "addedOn": "27-02-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox2",
+                                                    "topicID": "74",
+                                                    "topicName": "Needed requirements and parts",
+                                                    "contentName": "Robotics parts",
+                                                    "contentSource": "https:www.robotics.com/parts",
+                                                    "description": "Something about requirements and parts",
+                                                    "subject": "Robotics",
+                                                    "addedOn": "27-02-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox3",
+                                                    "topicID": "75",
+                                                    "topicName": "Artificial intelligence",
+                                                    "contentName": "AI explanation",
+                                                    "contentSource": "https:www.robotics.com/ai",
+                                                    "description": "Something about AI",
+                                                    "subject": "Robotics",
+                                                    "addedOn": "27-02-2019"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Working process",
+                                        "type": "lesson",
+                                        "data": {
+                                            "lessonID": "45",
+                                            "lessonName": "Working process",
+                                            "lessonDescription": "Some description about working process",
+                                            "topicsList": [
+                                                {
+                                                    "selectLabel": "checkbox5",
+                                                    "topicID": "85",
+                                                    "topicName": "Top layer functionality",
+                                                    "contentName": "Top layer explanation",
+                                                    "contentSource": "https:www.robotics.com/top-layer",
+                                                    "description": "Something about top layer functionality",
+                                                    "subject": "Robotics",
+                                                    "addedOn": "29-03-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox6",
+                                                    "topicID": "86",
+                                                    "topicName": "Middle layer functionality",
+                                                    "contentName": "Middle layer explanation",
+                                                    "contentSource": "https:www.robotics.com/middle-layer",
+                                                    "description": "Something about middle layer functionality",
+                                                    "subject": "Robotics",
+                                                    "addedOn": "28-03-2019"
+                                                },
+                                                {
+                                                    "selectLabel": "checkbox6",
+                                                    "topicID": "87",
+                                                    "topicName": "Bottom layer functionality",
+                                                    "contentName": "Bottom layer functionality",
+                                                    "contentSource": "https:www.robotics.com/bottom-layer",
+                                                    "description": "Something about bottom layer functionality",
+                                                    "subject": "Robotics",
+                                                    "addedOn": "28-03-2019"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "extraCurriculumInfo": [
+            {
+                "organizationID": "11",
+                "organizationName": "Chaitanya school of education",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            },
+            {
+                "organizationID": "21",
+                "organizationName": "Oakridge international school",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            },
+            {
+                "organizationID": "31",
+                "organizationName": "Kendra vidyalaya school of institution",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            }
+        ],
+        "grades": [
+            {
+                "gradeID": "1",
+                "gradeName": "1"
+            },
+            {
+                "gradeID": "2",
+                "gradeName": "2"
+            },
+            {
+                "gradeID": "3",
+                "gradeName": "3"
+            },
+            {
+                "gradeID": "4",
+                "gradeName": "4"
+            },
+            {
+                "gradeID": "5",
+                "gradeName": "5"
+            },
+            {
+                "gradeID": "6",
+                "gradeName": "6"
+            }
+        ]
+    }
+]

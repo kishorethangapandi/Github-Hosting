@@ -1,0 +1,126 @@
+[
+    {
+        "subjectID": "1",
+        "subjectName": "English",
+        "tree": [
+            {
+                "text": "English",
+                "type": "root",
+                "data": {
+                    "subjectName": "English",
+                    "subjectDescription": "Some description about english"
+                },
+                "children": [
+                    {
+                        "text": "Grammar - level 1",
+                        "type": "concept",
+                        "data": {
+                            "conceptID": "11",
+                            "conceptName": "Grammar - level 1",
+                            "conceptDescription": "Some description about grammer level one"
+                        },
+                        "children": [
+                            {
+                                "text": "Vocabulary",
+                                "type": "topic",
+                                "data": {
+                                    "topicID": "111",
+                                    "topicName": "Vocabulary",
+                                    "topicDescription": "Some description about vocabulary",
+                                    "subject": "English",
+                                    "primaryApplicableGrade": "CBSE.5",
+                                    "otherApplicableGrades": "AP.5,TS.4"
+                                }
+                            },
+                            {
+                                "text": "Nouns and pronoun",
+                                "type": "topic",
+                                "data": {
+                                    "topicID": "112",
+                                    "topicName": "Nouns and pronoun",
+                                    "topicDescription": "Some description about Nouns and pronoun",
+                                    "subject": "English",
+                                    "primaryApplicableGrade": "CBSE.5",
+                                    "otherApplicableGrades": "AP.5,TS.4"
+                                }
+                            },
+                            {
+                                "text": "Verbs and adverbs",
+                                "type": "topic",
+                                "data": {
+                                    "topicID": "113",
+                                    "topicName": "Verbs and adverbs",
+                                    "topicDescription": "Some description about verbs and adverbs explantion",
+                                    "subject": "English",
+                                    "primaryApplicableGrade": "CBSE.5",
+                                    "otherApplicableGrades": "AP.5,TS.4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Grammar - level 2",
+                        "type": "concept",
+                        "data": {
+                            "conceptID": "12",
+                            "conceptName": "Grammar - level 2",
+                            "conceptDescription": "Some description about grammer level two"
+                        },
+                        "children": [
+                            {
+                                "text": "Tenses",
+                                "type": "topic",
+                                "data": {
+                                    "topicID": "121",
+                                    "topicName": "Tenses",
+                                    "topicDescription": "Some description about tenses",
+                                    "subject": "English",
+                                    "primaryApplicableGrade": "CBSE.5",
+                                    "otherApplicableGrades": "AP.5,TS.4"
+                                }
+                            },
+                            {
+                                "text": "Sentence pattern",
+                                "type": "topic",
+                                "data": {
+                                    "topicID": "122",
+                                    "topicName": "Sentence pattern",
+                                    "topicDescription": "Some description about sentence pattern",
+                                    "subject": "English",
+                                    "primaryApplicableGrade": "CBSE.5",
+                                    "otherApplicableGrades": "AP.5,TS.4"
+                                }
+                            },
+                            {
+                                "text": "Active voice and passive voice",
+                                "type": "topic",
+                                "data": {
+                                    "topicID": "123",
+                                    "topicName": "Active voice and passive voice",
+                                    "topicDescription": "Some description about active voice and passive voice",
+                                    "subject": "English",
+                                    "primaryApplicableGrade": "CBSE.5",
+                                    "otherApplicableGrades": "AP.5,TS.4"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subjectID": "2",
+        "subjectName": "Mathematics",
+        "tree": [
+            {
+                "text": "Mathematics",
+                "type": "root",
+                "data": {
+                    "subjectName": "Mathematics",
+                    "subjectDescription": "Some description about mathematics"
+                }
+            }
+        ]
+    }
+]

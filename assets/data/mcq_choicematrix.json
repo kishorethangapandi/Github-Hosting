@@ -1,0 +1,57 @@
+{
+    "Answers": [
+        {
+            "ChoiceId": 169,
+            "OptionId": 612
+        },
+        {
+            "ChoiceId": 449,
+            "OptionId": 584
+        },
+        {
+            "ChoiceId": 553,
+            "OptionId": 553
+        },
+        {
+            "ChoiceId": 592,
+            "OptionId": 60
+        }
+    ],
+    "Choices": [
+        {
+            "ChoiceId": 169,
+            "ChoiceText": "Some New Choice"
+        },
+        {
+            "ChoiceId": 449,
+            "ChoiceText": "Some New Choice"
+        },
+        {
+            "ChoiceId": 553,
+            "ChoiceText": "Some New Choice"
+        },
+        {
+            "ChoiceId": 592,
+            "ChoiceText": "Some New Choice"
+        }
+    ],
+    "Options": [
+        {
+            "OptionId": 553,
+            "OptionText": "<p>Option A</p>"
+        },
+        {
+            "OptionId": 612,
+            "OptionText": "<p>Option B</p>"
+        },
+        {
+            "OptionId": 584,
+            "OptionText": "<p>Option C</p>"
+        },
+        {
+            "OptionId": 60,
+            "OptionText": "<p>Option D</p>"
+        }
+    ],
+    "Question": "<p>MCQ - Choice Matrix</p>"
+}

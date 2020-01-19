@@ -1,0 +1,86 @@
+[
+    {
+        "generalSubjectID": "501",
+        "generalSubjectName": "General Mathematics",
+        "generalSubjectDescription": "Something",
+        "status": "Active",
+        "active": "true"
+    },
+    {
+        "generalSubjectID": "502",
+        "generalSubjectName": "General English",
+        "generalSubjectDescription": "Something",
+        "status": "Inactive",
+        "inactive": "true"
+    },
+    {
+        "generalSubjectID": "503",
+        "generalSubjectName": "General Science",
+        "generalSubjectDescription": "Something",
+        "status": "Draft",
+        "draft": "true"
+    },
+    {
+        "generalSubjectID": "501",
+        "generalSubjectName": "General Mathematics",
+        "generalSubjectDescription": "Something",
+        "status": "Active",
+        "active": "true"
+    },
+    {
+        "generalSubjectID": "502",
+        "generalSubjectName": "General English",
+        "generalSubjectDescription": "Something",
+        "status": "Inactive",
+        "inactive": "true"
+    },
+    {
+        "generalSubjectID": "504",
+        "generalSubjectName": "General Science",
+        "generalSubjectDescription": "Something",
+        "status": "Draft",
+        "draft": "true"
+    },
+    {
+        "generalSubjectID": "505",
+        "generalSubjectName": "General Mathematics",
+        "generalSubjectDescription": "Something",
+        "status": "Active",
+        "active": "true"
+    },
+    {
+        "generalSubjectID": "506",
+        "generalSubjectName": "General English",
+        "generalSubjectDescription": "Something",
+        "status": "Inactive",
+        "inactive": "true"
+    },
+    {
+        "generalSubjectID": "507",
+        "generalSubjectName": "General Science",
+        "generalSubjectDescription": "Something",
+        "status": "Draft",
+        "draft": "true"
+    },
+    {
+        "generalSubjectID": "508",
+        "generalSubjectName": "General Mathematics",
+        "generalSubjectDescription": "Something",
+        "status": "Active",
+        "active": "true"
+    },
+    {
+        "generalSubjectID": "509",
+        "generalSubjectName": "General English",
+        "generalSubjectDescription": "Something",
+        "status": "Inactive",
+        "inactive": "true"
+    },
+    {
+        "generalSubjectID": "510",
+        "generalSubjectName": "General Science",
+        "generalSubjectDescription": "Something",
+        "status": "Draft",
+        "draft": "true"
+    }
+]

@@ -1,0 +1,239 @@
+[
+    {
+        "curriculumType": [
+            {
+                "curriculumTypeID": "1",
+                "curriculumTypeName": "Standard curriculum",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    },
+                    {
+                        "curriculumName": "Stateboard - AP",
+                        "curriculumID": "12"
+                    },
+                    {
+                        "curriculumName": "Stateboard - TN",
+                        "curriculumID": "13"
+                    },
+                    {
+                        "curriculumName": "Matriculation",
+                        "curriculumID": "14"
+                    }
+                ]
+            },
+            {
+                "curriculumTypeID": "2",
+                "curriculumTypeName": "Extra curriculum"
+            }
+        ],
+        "extraCurriculumInfo": [
+            {
+                "organizationID": "11",
+                "organizationName": "Chaitanya school of education",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            },
+            {
+                "organizationID": "21",
+                "organizationName": "Oakridge international school",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            },
+            {
+                "organizationID": "31",
+                "organizationName": "Kendra vidyalaya school of institution",
+                "curriculumDetails": [
+                    {
+                        "curriculumName": "CBSE",
+                        "curriculumID": "11"
+                    }
+                ]
+            }
+        ],
+        "grades": [
+            {
+                "gradeID": "1",
+                "gradeName": "1"
+            },
+            {
+                "gradeID": "2",
+                "gradeName": "2"
+            },
+            {
+                "gradeID": "3",
+                "gradeName": "3"
+            },
+            {
+                "gradeID": "4",
+                "gradeName": "4"
+            },
+            {
+                "gradeID": "5",
+                "gradeName": "5"
+            },
+            {
+                "gradeID": "6",
+                "gradeName": "6"
+            }
+        ],
+        "subjectDetails": [
+            {
+                "subjectID": "1011",
+                "subjectName": "English",
+                "curriculumTypeName": "Extra curriculum",
+                "subjectDescription": "Something ...",
+                "curriculum": "CBSE",
+                "subjectMapName": "English",
+                "organizationName": "Chaitanya school of education",
+                "grade": "3",
+                "language": true,
+                "status": "Active",
+                "gradingConfiguration": [
+                    {
+                        "range": "91-100",
+                        "grade": "A1",
+                        "gradePoint": "10"
+                    },
+                    {
+                        "range": "81-90",
+                        "grade": "A",
+                        "gradePoint": "9"
+                    },
+                    {
+                        "range": "71-80",
+                        "grade": "B",
+                        "gradePoint": "8"
+                    },
+                    {
+                        "range": "61-70",
+                        "grade": "C",
+                        "gradePoint": "6"
+                    },
+                    {
+                        "range": "51-60",
+                        "grade": "D",
+                        "gradePoint": "10"
+                    },
+                    {
+                        "range": "41-50",
+                        "grade": "E",
+                        "gradePoint": "5"
+                    },
+                    {
+                        "range": "0-40",
+                        "grade": "U",
+                        "gradePoint": "0"
+                    }
+                ]
+            },
+            {
+                "subjectID": "1012",
+                "subjectName": "Mathematics",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculum": "CBSE",
+                "subjectDescription": "Something ...",
+                "subjectMapName": "Mathematics",
+                "organizationName": "Oakridge international school",
+                "grade": "5",
+                "language": false,
+                "status": "Inactive",
+                "gradingConfiguration": [
+                    {
+                        "range": "91-100",
+                        "grade": "A1",
+                        "gradePoint": "10"
+                    },
+                    {
+                        "range": "81-90",
+                        "grade": "A",
+                        "gradePoint": "9"
+                    },
+                    {
+                        "range": "71-80",
+                        "grade": "B",
+                        "gradePoint": "8"
+                    },
+                    {
+                        "range": "61-70",
+                        "grade": "C",
+                        "gradePoint": "6"
+                    },
+                    {
+                        "range": "51-60",
+                        "grade": "D",
+                        "gradePoint": "10"
+                    },
+                    {
+                        "range": "41-50",
+                        "grade": "E",
+                        "gradePoint": "5"
+                    },
+                    {
+                        "range": "0-40",
+                        "grade": "U",
+                        "gradePoint": "0"
+                    }
+                ]
+            },
+            {
+                "subjectID": "1013",
+                "subjectName": "Science",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculum": "CBSE",
+                "subjectDescription": "Something ...",
+                "subjectMapName": "Science",
+                "organizationName": "Kendra vidyalaya school of institution",
+                "grade": "6",
+                "language": true,
+                "status": "Draft",
+                "gradingConfiguration": [
+                    {
+                        "range": "91-100",
+                        "grade": "A1",
+                        "gradePoint": "10"
+                    },
+                    {
+                        "range": "81-90",
+                        "grade": "A",
+                        "gradePoint": "9"
+                    },
+                    {
+                        "range": "71-80",
+                        "grade": "B",
+                        "gradePoint": "8"
+                    },
+                    {
+                        "range": "61-70",
+                        "grade": "C",
+                        "gradePoint": "6"
+                    },
+                    {
+                        "range": "51-60",
+                        "grade": "D",
+                        "gradePoint": "10"
+                    },
+                    {
+                        "range": "41-50",
+                        "grade": "E",
+                        "gradePoint": "5"
+                    },
+                    {
+                        "range": "0-40",
+                        "grade": "U",
+                        "gradePoint": "0"
+                    }
+                ]
+            }
+        ]
+    }
+]

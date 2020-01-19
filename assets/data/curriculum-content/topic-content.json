@@ -1,0 +1,698 @@
+[
+    {
+        "curriculumDetails": [
+            {
+                "curriculumName": "CBSE",
+                "curriculumID": "1021"
+            },
+            {
+                "curriculumName": "Stateboard AP",
+                "curriculumID": "1023"
+            },
+            {
+                "curriculumName": "Stateboard TS",
+                "curriculumID": "1031"
+            },
+            {
+                "curriculumName": "Stateboard TN",
+                "curriculumID": "1023"
+            }
+        ],
+        "grades": [
+            {
+                "gradeName": "1",
+                "gradeID": "101"
+            },
+            {
+                "gradeName": "2",
+                "gradeID": "102"
+            },
+            {
+                "gradeName": "3",
+                "gradeID": "103"
+            },
+            {
+                "gradeName": "4",
+                "gradeID": "104"
+            },
+            {
+                "gradeName": "5",
+                "gradeID": "105"
+            },
+            {
+                "gradeName": "6",
+                "gradeID": "106"
+            },
+            {
+                "gradeName": "7",
+                "gradeID": "107"
+            },
+            {
+                "gradeName": "8",
+                "gradeID": "108"
+            },
+            {
+                "gradeName": "9",
+                "gradeID": "109"
+            },
+            {
+                "gradeName": "10",
+                "gradeID": "110"
+            }
+        ],
+        "organizations": [
+            {
+                "organizationName": "Chaitanya institution",
+                "organizationID": "101"
+            },
+            {
+                "organizationName": "Oakridge international school",
+                "organizationID": "102"
+            },
+            {
+                "organizationName": "Karunya organization",
+                "organizationID": "103"
+            },
+            {
+                "organizationName": "Amritha institution",
+                "organizationID": "104"
+            }
+        ],
+        "originDetails": [
+            {
+                "originID": "1",
+                "originName": "Asia"
+            },
+            {
+                "originID": "2",
+                "originName": "Australia & Newzealand"
+            },
+            {
+                "originID": "3",
+                "originName": "Canada"
+            },
+            {
+                "originID": "4",
+                "originName": "United states of america"
+            },
+            {
+                "originID": "5",
+                "originName": "Europe"
+            }
+        ],
+        "hostedDetails": [
+            {
+                "hostID": "1",
+                "hostName": "Youtube"
+            },
+            {
+                "hostID": "2",
+                "hostName": "Dailymotion"
+            },
+            {
+                "hostID": "3",
+                "hostName": "Vimeo"
+            },
+            {
+                "hostID": "4",
+                "hostName": "Amazon prime"
+            },
+            {
+                "hostID": "5",
+                "hostName": "Google"
+            },
+            {
+                "hostID": "6",
+                "hostName": "Others"
+            }
+        ],
+        "subjectDetails": [
+            {
+                "subjectName": "English",
+                "subjectID": "123",
+                "tree": [
+                    {
+                        "text": "English",
+                        "type": "root",
+                        "data": {
+                            "subjectName": "English",
+                            "subjectDescription": "Some description about english"
+                        },
+                        "children": [
+                            {
+                                "text": "Grammar - level 1",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "11",
+                                    "conceptName": "Grammar - level 1",
+                                    "conceptDescription": "Some description about grammer level one"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Vocabulary",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "111",
+                                            "topicName": "Vocabulary",
+                                            "topicDescription": "Some description about vocabulary",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "contentList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "selectLabel": "label1",
+                                                            "contentName": "Vocabulory words from A to E",
+                                                            "contentID": "1111",
+                                                            "contentDescription": "Explanation about vocabulory A to E",
+                                                            "webURL": "https://www.learnenglish.com/vocabuloryatoe",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label2",
+                                                            "contentName": "Vocabulory words from F to O",
+                                                            "contentID": "1121",
+                                                            "contentDescription": "Explanation about vocabulory",
+                                                            "webURL": "https://www.learnenglish.com/vocabuloryftoo",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "selectLabel": "label3",
+                                                            "contentName": "Vocabulory words from A to E",
+                                                            "contentID": "1113",
+                                                            "contentDescription": "Explanation about vocabulory A to E",
+                                                            "webURL": "https://www.learnenglish.com/vocabuloryatoe",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label4",
+                                                            "contentName": "Vocabulory words from F to O",
+                                                            "contentID": "1124",
+                                                            "contentDescription": "Explanation about vocabulory",
+                                                            "webURL": "https://www.learnenglish.com/vocabuloryftoo",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "selectLabel": "label5",
+                                                            "contentName": "Vocabulory words from A to E",
+                                                            "contentID": "1115",
+                                                            "contentDescription": "Explanation about vocabulory A to E",
+                                                            "webURL": "https://www.learnenglish.com/vocabuloryatoe",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label6",
+                                                            "contentName": "Vocabulory words from F to O",
+                                                            "contentID": "1126",
+                                                            "contentDescription": "Explanation about vocabulory",
+                                                            "webURL": "https://www.learnenglish.com/vocabuloryftoo",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Nouns and pronoun",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "112",
+                                            "topicName": "Nouns and pronoun",
+                                            "topicDescription": "Some description about Nouns and pronoun",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "contentList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "selectLabel": "label7",
+                                                            "contentName": "Noun explanation",
+                                                            "contentID": "1101",
+                                                            "contentDescription": "Explanation about noun",
+                                                            "webURL": "https://www.learnenglish.com/noun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label8",
+                                                            "contentName": "Pronoun with examples",
+                                                            "contentID": "1141",
+                                                            "contentDescription": "Explanation about pronoun",
+                                                            "webURL": "https://www.learnenglish.com/pronoun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "selectLabel": "label9",
+                                                            "contentName": "Noun explanation",
+                                                            "contentID": "1161",
+                                                            "contentDescription": "Explanation about noun",
+                                                            "webURL": "https://www.learnenglish.com/noun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label10",
+                                                            "contentName": "Pronoun with examples",
+                                                            "contentID": "1181",
+                                                            "contentDescription": "Explanation about pronoun",
+                                                            "webURL": "https://www.learnenglish.com/pronoun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "selectLabel": "label11",
+                                                            "contentName": "Noun explanation",
+                                                            "contentID": "1110",
+                                                            "contentDescription": "Explanation about noun",
+                                                            "webURL": "https://www.learnenglish.com/noun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label12",
+                                                            "contentName": "Pronoun with examples",
+                                                            "contentID": "1120",
+                                                            "contentDescription": "Explanation about pronoun",
+                                                            "webURL": "https://www.learnenglish.com/pronoun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Verbs and adverbs",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "113",
+                                            "topicName": "Verbs and adverbs",
+                                            "topicDescription": "Some description about verbs and adverbs",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "contentList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "selectLabel": "label13",
+                                                            "contentName": "Verb explanation",
+                                                            "contentID": "1141",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/verb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label14",
+                                                            "contentName": "Adverb with examples",
+                                                            "contentID": "1142",
+                                                            "contentDescription": "Explanation about adverb",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "selectLabel": "label15",
+                                                            "contentName": "Verb explanation",
+                                                            "contentID": "1144",
+                                                            "contentDescription": "Explanation about noun",
+                                                            "webURL": "https://www.learnenglish.com/noun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label16",
+                                                            "contentName": "Adverb with examples",
+                                                            "contentID": "1146",
+                                                            "contentDescription": "Explanation about pronoun",
+                                                            "webURL": "https://www.learnenglish.com/pronoun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "selectLabel": "label17",
+                                                            "contentName": "Verb explanation",
+                                                            "contentID": "1148",
+                                                            "contentDescription": "Explanation about noun",
+                                                            "webURL": "https://www.learnenglish.com/noun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label18",
+                                                            "contentName": "Adverb with examples",
+                                                            "contentID": "1149",
+                                                            "contentDescription": "Explanation about pronoun",
+                                                            "webURL": "https://www.learnenglish.com/pronoun",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Grammar - level 2",
+                                "type": "concept",
+                                "data": {
+                                    "conceptID": "12",
+                                    "conceptName": "Grammar - level 2",
+                                    "conceptDescription": "Some description about grammer level two"
+                                },
+                                "children": [
+                                    {
+                                        "text": "Tenses",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "121",
+                                            "topicName": "Tenses",
+                                            "topicDescription": "Some description about tenses",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "contentList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "selectLabel": "label19",
+                                                            "contentName": "Simple tenses explanation",
+                                                            "contentID": "1151",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label20",
+                                                            "contentName": "Perfect tenses explanation",
+                                                            "contentID": "1153",
+                                                            "contentDescription": "Explanation about perfect tenses",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "selectLabel": "label21",
+                                                            "contentName": "Simple tenses explanation",
+                                                            "contentID": "1157",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label22",
+                                                            "contentName": "Perfect tenses explanation",
+                                                            "contentID": "1158",
+                                                            "contentDescription": "Explanation about perfect tenses",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "selectLabel": "label23",
+                                                            "contentName": "Simple tenses explanation",
+                                                            "contentID": "1159",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label24",
+                                                            "contentName": "Perfect tenses explanation",
+                                                            "contentID": "1160",
+                                                            "contentDescription": "Explanation about perfect tenses",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Sentence pattern",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "122",
+                                            "topicName": "Sentence pattern",
+                                            "topicDescription": "Some description about sentence pattern",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "contentList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "selectLabel": "label25",
+                                                            "contentName": "Simple tenses explanation",
+                                                            "contentID": "1162",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label26",
+                                                            "contentName": "Perfect tenses explanation",
+                                                            "contentID": "1164",
+                                                            "contentDescription": "Explanation about perfect tenses",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "selectLabel": "label27",
+                                                            "contentName": "Simple tenses explanation",
+                                                            "contentID": "1167",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label28",
+                                                            "contentName": "Perfect tenses explanation",
+                                                            "contentID": "1168",
+                                                            "contentDescription": "Explanation about perfect tenses",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "selectLabel": "label29",
+                                                            "contentName": "Simple tenses explanation",
+                                                            "contentID": "1169",
+                                                            "contentDescription": "Explanation about verb",
+                                                            "webURL": "https://www.learnenglish.com/",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label30",
+                                                            "contentName": "Perfect tenses explanation",
+                                                            "contentID": "1170",
+                                                            "contentDescription": "Explanation about perfect tenses",
+                                                            "webURL": "https://www.learnenglish.com/adverb",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "text": "Active voice and passive voice",
+                                        "type": "topic",
+                                        "data": {
+                                            "topicID": "123",
+                                            "topicName": "Active voice and passive voice",
+                                            "topicDescription": "Some description about active voice and passive voice",
+                                            "subject": "English",
+                                            "primaryApplicableGrade": "CBSE.5",
+                                            "otherApplicableGrades": "AP.5,TS.4",
+                                            "contentList": [
+                                                {
+                                                    "recommendedByCE": [
+                                                        {
+                                                            "selectLabel": "label31",
+                                                            "contentName": "Active voice and passive voice explanation",
+                                                            "contentID": "1173",
+                                                            "contentDescription": "Explanation about active voice and passive voice",
+                                                            "webURL": "https://www.learnenglish.com/voicetense",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label32",
+                                                            "contentName": "Active voice and passive voice Introduction",
+                                                            "contentID": "1174",
+                                                            "contentDescription": "Introduction about Active voice and passive voice",
+                                                            "webURL": "https://www.learnenglish.com/active&passive",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "recommendedByOrganizations": [
+                                                        {
+                                                            "selectLabel": "label33",
+                                                            "contentName": "Active voice and passive voice explanation",
+                                                            "contentID": "1175",
+                                                            "contentDescription": "Explanation about active voice and passive voice",
+                                                            "webURL": "https://www.learnenglish.com/voicetense",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label34",
+                                                            "contentName": "Active voice and passive voice Introduction",
+                                                            "contentID": "1178",
+                                                            "contentDescription": "Introduction about Active voice and passive voice",
+                                                            "webURL": "https://www.learnenglish.com/active&passive",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ],
+                                                    "ownContent": [
+                                                        {
+                                                            "selectLabel": "label35",
+                                                            "contentName": "Active voice and passive voice explanation",
+                                                            "contentID": "1179",
+                                                            "contentDescription": "Explanation about active voice and passive voice",
+                                                            "webURL": "https://www.learnenglish.com/voicetense",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        },
+                                                        {
+                                                            "selectLabel": "label36",
+                                                            "contentName": "Active voice and passive voice Introduction",
+                                                            "contentID": "1180",
+                                                            "contentDescription": "Introduction about Active voice and passive voice",
+                                                            "webURL": "https://www.learnenglish.com/active&passive",
+                                                            "origin": "Asia",
+                                                            "publisher": "Rajendra",
+                                                            "efficacyRating": "4",
+                                                            "hostedOn": "Youtube"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

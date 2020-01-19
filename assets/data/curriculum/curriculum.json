@@ -1,0 +1,155 @@
+[
+    {
+        "curriculumType": [
+            {
+                "curriculumTypeID": "1",
+                "curriculumTypeName": "Stanadard curriculum"
+            },
+            {
+                "curriculumTypeID": "2",
+                "curriculumTypeName": "Extra curriculum"
+            }
+        ],
+        "extraCurriculumInfo": [
+            {
+                "organizationID": "11",
+                "organizationName": "Chaitanya school of education"
+            },
+            {
+                "organizationID": "21",
+                "organizationName": "Oakridge international school"
+            },
+            {
+                "organizationID": "31",
+                "organizationName": "Kendra vidyalaya school of institution"
+            }
+        ],
+        "curriculumDetails": [
+            {
+                "curriculumID": "101",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculumDescription": "Something ...",
+                "organizationName": "Chaitanya school of education",
+                "curriculumName": "CBSE",
+                "country": "India",
+                "state": "Telangana",
+                "startMonth": "Jan",
+                "endMonth": "Dec",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "status": "Active",
+                "affiliationDetails": [
+                    {
+                        "schoolOrganizationID": "111",
+                        "schoolOrganizationName": "Chaitanya higher secondary school",
+                        "country": "India",
+                        "state": "Telangana",
+                        "city": "Gachibowli"
+                    },
+                    {
+                        "schoolOrganizationID": "121",
+                        "schoolOrganizationName": "Chaitanya school of CBSE",
+                        "country": "India",
+                        "state": "Telangana",
+                        "city": "Lingampally"
+                    },
+                    {
+                        "schoolOrganizationID": "131",
+                        "schoolOrganizationName": "Chaitanya matriculation education",
+                        "country": "India",
+                        "state": "Telangana",
+                        "city": "Secunderabad"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "102",
+                "organizationName": "Kendra vidyalaya school of institution",
+                "curriculumName": "Stateboard",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculumDescription": "Something ...",
+                "country": "India",
+                "state": "Tamilnadu",
+                "startMonth": "Jan",
+                "endMonth": "Dec",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "status": "Inactive",
+                "affiliationDetails": [
+                    {
+                        "schoolOrganizationID": "211",
+                        "schoolOrganizationName": "Kendra vidyalaya higher secondary school",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Madurai"
+                    },
+                    {
+                        "schoolOrganizationID": "221",
+                        "schoolOrganizationName": "Kendra vidyalaya school of CBSE",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Chennai"
+                    },
+                    {
+                        "schoolOrganizationID": "231",
+                        "schoolOrganizationName": "Kendra vidyala matriculation education",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Kanyakumari"
+                    }
+                ]
+            },
+            {
+                "curriculumID": "103",
+                "organizationName": "Oakridge international school",
+                "curriculumName": "Matriculation",
+                "curriculumTypeName": "Extra curriculum",
+                "curriculumDescription": "Something ...",
+                "country": "United states of america",
+                "state": "Florida",
+                "startMonth": "Jan",
+                "endMonth": "Dec",
+                "fromGrade": "1",
+                "toGrade": "12",
+                "status": "Draft",
+                "affiliationDetails": [
+                    {
+                        "schoolOrganizationID": "311",
+                        "schoolOrganizationName": "Oakridge higher secondary school",
+                        "country": "India",
+                        "state": "Andra pradesh",
+                        "city": "Dhoni"
+                    },
+                    {
+                        "schoolOrganizationID": "321",
+                        "schoolOrganizationName": "Oakridge vidyalaya school of CBSE",
+                        "country": "India",
+                        "state": "Andra pradesh",
+                        "city": "Triupathi"
+                    },
+                    {
+                        "schoolOrganizationID": "331",
+                        "schoolOrganizationName": "Oakridge matriculation school",
+                        "country": "India",
+                        "state": "Tamilnadu",
+                        "city": "Kundoor"
+                    }
+                ]
+            }
+        ],
+        "curriculumInfo": [
+            {
+                "curriculumInfoID": "1020",
+                "curriculumInfoName": "CBSE"
+            },
+            {
+                "curriculumInfoID": "1021",
+                "curriculumInfoName": "Matriculation"
+            },
+            {
+                "curriculumInfoID": "1020",
+                "curriculumInfoName": "Stateboard"
+            }
+        ]
+    }
+]
